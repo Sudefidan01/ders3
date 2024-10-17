@@ -1,0 +1,15 @@
+C:\Users\pcc\source\repos\Ders3\Ders3\bin\Debug\Ders3.exe.config
+C:\Users\pcc\source\repos\Ders3\Ders3\bin\Debug\Ders3.exe
+C:\Users\pcc\source\repos\Ders3\Ders3\bin\Debug\Ders3.pdb
+C:\Users\pcc\source\repos\Ders3\Ders3\obj\Debug\Ders3.csproj.AssemblyReference.cache
+C:\Users\pcc\source\repos\Ders3\Ders3\obj\Debug\Ders3.csproj.SuggestedBindingRedirects.cache
+C:\Users\pcc\source\repos\Ders3\Ders3\obj\Debug\Ders3.Form1.resources
+C:\Users\pcc\source\repos\Ders3\Ders3\obj\Debug\Ders3.Properties.Resources.resources
+C:\Users\pcc\source\repos\Ders3\Ders3\obj\Debug\Ders3.csproj.GenerateResource.cache
+C:\Users\pcc\source\repos\Ders3\Ders3\obj\Debug\Ders3.csproj.CoreCompileInputs.cache
+C:\Users\pcc\source\repos\Ders3\Ders3\obj\Debug\Ders3.exe
+C:\Users\pcc\source\repos\Ders3\Ders3\obj\Debug\Ders3.pdb
+C:\Users\pcc\source\repos\Ders3\Ders3\obj\Debug\Ders3.AnaEkran.resources
+C:\Users\pcc\source\repos\Ders3\Ders3\obj\Debug\Ders3.Combobox_Ornek1.resources
+C:\Users\pcc\source\repos\Ders3\Ders3\obj\Debug\Ders3.ComboBox_Ornek2.resources
+C:\Users\pcc\source\repos\Ders3\Ders3\obj\Debug\Ders3.Timer.resources
